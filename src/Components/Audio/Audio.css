@@ -1,0 +1,14 @@
+.Audio {
+  padding : 0.2rem;
+  max-height: 30%;
+  max-width: 70%;
+  color: rgba(265, 265, 265, 0.5);
+  opacity: 0.8;
+}
+
+.Non-Audio {
+  font-size: 0.7rem;
+  padding-top: 0.2rem;
+  font-weight: 200;
+  color: rgba(256, 256, 256, 0.8);
+}
