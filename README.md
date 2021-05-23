@@ -1,4 +1,4 @@
-## React Project
+## React Project: Jammming
 Build a React web application called Jammming using the knowledge of React components, passing state, and requests with the Spotify API. This application includes functions:
 - Search a list of songs matching a keyword string
 - Listen to the preview of song
