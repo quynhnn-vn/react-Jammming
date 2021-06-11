@@ -5,7 +5,7 @@ Build a React web application called Jammming using the knowledge of React compo
 - Add songs to a custom playlist
 - Save this custom playlist to user's Spotify account
 
-## To Run
+### Available Scripts
 
 Run `npm install` inside the project's root directory (make sure you have Node installed on your computer)
 
