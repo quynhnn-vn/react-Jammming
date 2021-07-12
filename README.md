@@ -14,6 +14,6 @@ Run `npm start` and open [http://localhost:3000](http://localhost:3000) to view 
 Open [http://jammming-qnn.surge.sh/](http://jammming-qnn.surge.sh/) to view it in deployed version.
 
 Try this account for testing: 
-- Email: 'testing.jammming@gmail.com'
-- Password: 'testing.jammming'
+- Email: testing.jammming@gmail.com
+- Password: testing.jammming
 
