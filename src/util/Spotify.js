@@ -1,5 +1,5 @@
 const clientId = "fcf0ede0a25d4df6a656dfca2ddac0a1";
-const redirectUri = "http://jammming-qnn.surge.sh";
+const redirectUri = "https://jammming-qnn.netlify.app/";
 let accessToken;
 
 export const Spotify = {
