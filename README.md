@@ -11,7 +11,7 @@ Run `npm install` inside the project's root directory (make sure you have Node i
 
 Run `npm start` and open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Open [http://jammming-qnn.surge.sh/](http://jammming-qnn.surge.sh/) to view it in deployed version.
+Open [https://jammming-qnn.netlify.app/](https://jammming-qnn.netlify.app/) to view it in deployed version.
 
 Try this account for testing: 
 - Email: testing.jammming@gmail.com
